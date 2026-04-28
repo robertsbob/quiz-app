@@ -2,6 +2,11 @@
 
 An advanced quiz platform that uses AI to automatically generate quizzes from uploaded documents. Features multiple quiz types, AI grading, and comprehensive admin tools.
 
+## Contributors
+
+Tested by the greatest, dopest QA tester - https://github.com/GirlAfro
+Documentation by https://github.com/mano0x
+
 ## Features
 
 - **Document Processing**
