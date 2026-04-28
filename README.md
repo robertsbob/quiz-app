@@ -5,6 +5,7 @@ An advanced quiz platform that uses AI to automatically generate quizzes from up
 ## Contributors
 
 Tested by the greatest, dopest QA tester - https://github.com/GirlAfro
+
 Documentation by https://github.com/mano0x
 
 ## Features
